@@ -1,0 +1,10 @@
+{
+    "name": "@repo/hooks",
+    "version": "1.0.0",
+    "main": "index.ts",
+    "types": "index.ts",
+    "dependencies": {
+        "react": "^18.0.0",
+        "@tanstack/react-query": "^5.0.0"
+    }
+}
